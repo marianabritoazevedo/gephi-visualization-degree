@@ -19,8 +19,15 @@ The original network had approximately 79.000 nodes and 214.000 edges, so this n
 
 Then, using the `pandas` library, the data was divided according to the degree into 5 different groups:
 
-*  $Group 1: 100 \leq degree \leq 199 $
-*  $Group 2: 200 \leq degree \leq 299 $
-*  $Group 3: 300 \leq degree \leq 499 $
-*  $Group 4: 500 \leq degree \leq 699 $
-*  $Group 5: 700 \leq degree \leq 1369 $
+*  Group 1: $100 \leq degree \leq 199 $
+*  Group 2: $200 \leq degree \leq 299 $
+*  Group 3: $300 \leq degree \leq 499 $
+*  Group 4: $500 \leq degree \leq 699 $
+*  Group 5: $700 \leq degree \leq 1369 $
+
+After performing this division on the data, a new dataset was created, imported into gephi, and thus produced the final visualization. The image below shows the colors chosen to represent each group, as well as the percentage of each. It is noticed that almost half of the nodes in this network belong to the first group, with degrees between 100 and 199.
+
+<p align='center'>
+<img src='./img/grafico-pizza-degree.png'>
+</p>
+
