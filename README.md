@@ -7,6 +7,8 @@ For this, the [Gephi](https://gephi.org/) software was used, responsible for the
 
 This repository represents only a part of the final work developed in the Data Structure II discipline, done by [Mariana Azevedo](https://github.com/marianabritoazevedo), [Morsinaldo Medeiros](https://github.com/Morsinaldo) and and [Thaís Medeiros](https://github.com/thaisaraujo2000). The complete work can be checked at [this link](https://github.com/marianabritoazevedo/data-structure-ii).
 
+:mag_right: you can check the interactive page with [this link](https://marianabritoazevedo.github.io/gephi-visualization-degree/network/).
+
 ![Img copa](https://mundoconectado.com.br/uploads/chamadas/copa-2022_2.jpg)
 
 
